@@ -1,7 +1,6 @@
 #pozadi{
     z-index: -1000;
-    position: absolute;
-    width: 1500px;
+    width: 500px;
 }
 header{
     color: red;
@@ -21,4 +20,24 @@ header p{
 
 section h2{
     color: blue;
+}
+
+.text{
+    display: block;
+    width: 1000px;
+    border: 3px pink solid;
+    text-align: center;
+}
+.art2{
+    
+    display: flex;
+    justify-content: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+.div{
+    display: flex;
+    justify-content: center;
 }
